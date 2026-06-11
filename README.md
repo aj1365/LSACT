@@ -6,9 +6,13 @@
 Four Commonly used datasets were used in this paper, namely EuroSAT, AID, UCMerced and NWPU RESISC-45
 <img width="835" height="452" alt="image" src="https://github.com/user-attachments/assets/296c135e-2efe-408c-ba0e-2aed8f6210d9" />
 
-
 # Requirement
 Python 3.9.18, Tensorflow (and Keras) 2.10.0
+
+# Results
+<img width="825" height="227" alt="image" src="https://github.com/user-attachments/assets/217d87e2-7f70-4219-8faa-f56677bdb4cf" />
+
+<img width="835" height="257" alt="image" src="https://github.com/user-attachments/assets/71d7e207-c1b6-453f-9c7c-1665f89c13fb" />
 
 # Citation
 @ARTICLE{11554931,
